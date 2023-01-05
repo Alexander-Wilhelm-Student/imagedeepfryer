@@ -31,7 +31,7 @@ namespace imagefunnies
                 Console.WriteLine($"Provide saturation factor (default {saturationFactor})");
                 contrastFactor = Convert.ToSingle(Console.ReadLine());
                 Console.WriteLine($"Provide contrast factor (default {contrastFactor})");
-                contrastFactor = Convert.ToSingle(Console.ReadLine());
+                saturationFactor = Convert.ToSingle(Console.ReadLine());
                 Console.WriteLine($"Provide desired output location and filename");
                 outPath = GetPath(false);
 
