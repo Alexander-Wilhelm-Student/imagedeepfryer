@@ -1,0 +1,17 @@
+U:\cs projects\image\bin\Debug\net7.0\image.exe
+U:\cs projects\image\bin\Debug\net7.0\image.deps.json
+U:\cs projects\image\bin\Debug\net7.0\image.runtimeconfig.json
+U:\cs projects\image\bin\Debug\net7.0\image.dll
+U:\cs projects\image\bin\Debug\net7.0\image.pdb
+U:\cs projects\image\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+U:\cs projects\image\obj\Debug\net7.0\image.csproj.AssemblyReference.cache
+U:\cs projects\image\obj\Debug\net7.0\image.GeneratedMSBuildEditorConfig.editorconfig
+U:\cs projects\image\obj\Debug\net7.0\image.AssemblyInfoInputs.cache
+U:\cs projects\image\obj\Debug\net7.0\image.AssemblyInfo.cs
+U:\cs projects\image\obj\Debug\net7.0\image.csproj.CoreCompileInputs.cache
+U:\cs projects\image\obj\Debug\net7.0\image.csproj.CopyComplete
+U:\cs projects\image\obj\Debug\net7.0\image.dll
+U:\cs projects\image\obj\Debug\net7.0\refint\image.dll
+U:\cs projects\image\obj\Debug\net7.0\image.pdb
+U:\cs projects\image\obj\Debug\net7.0\image.genruntimeconfig.cache
+U:\cs projects\image\obj\Debug\net7.0\ref\image.dll
