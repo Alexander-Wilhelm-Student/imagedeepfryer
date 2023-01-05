@@ -28,10 +28,10 @@ namespace imagefunnies
                 rescaleFactor = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine($"Provide brightness factor (default {brightnessFactor})");
                 brightnessFactor = Convert.ToSingle(Console.ReadLine());
-                Console.WriteLine($"Provide saturation factor (default {contrastFactor})");
-                contrastFactor = Convert.ToSingle(Console.ReadLine());
-                Console.WriteLine($"Provide contrast factor (default {saturationFactor})");
+                Console.WriteLine($"Provide saturation factor (default {saturationFactor})");
                 saturationFactor = Convert.ToSingle(Console.ReadLine());
+                Console.WriteLine($"Provide contrast factor (default {contrastFactor})");
+                contrastFactor = Convert.ToSingle(Console.ReadLine());
                 Console.WriteLine($"Provide desired output location and filename");
                 outPath = GetPath(false);
 
